@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/r" lang="es">
+        <file>sigmaLambda.png</file>
+        <file>save.png</file>
+        <file>resource.qrc</file>
+        <file>remove.png</file>
+        <file>open.png</file>
+        <file>new.png</file>
+        <file>add.png</file>
+        <file>newA.png</file>
+        <file>newL.png</file>
+        <file>openA.png</file>
+        <file>openL.png</file>
+    </qresource>
+</RCC>
